@@ -9,9 +9,6 @@ import random
 from torch.utils.data import SubsetRandomSampler
 from model.model import DSGSF
 
-from train import *
-
-
 
 # 固定随机种子
 seed = 2022
