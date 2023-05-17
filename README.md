@@ -2,5 +2,4 @@
 
 
 
-The full of code of DSGSF for hyperspectral image classification will be released when the corresponding paper is accepted.
 
